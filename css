@@ -1,0 +1,198 @@
+CSS CODE:
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  width: 1440px;
+  height: 3310px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #c0c9ec;
+  width: 1440px;
+  height: 177px;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+}
+.petshelter {
+  color: #1e1e1e;
+  text-align: left;
+  font: 700 48px "Berlin Sans FB Demi", sans-serif;
+  position: absolute;
+  left: 159px;
+  top: 59px;
+  width: 232px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Oxygen", sans-serif;
+  position: absolute;
+  left: 496px;
+  top: 69px;
+  width: 111px;
+  height: 44px;
+}
+.about-us {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Oxygen", sans-serif;
+  position: absolute;
+  left: 695px;
+  top: 70px;
+  width: 170px;
+  height: 27px;
+}
+.house-2015053135-clean-1 {
+  width: 113px;
+  height: 90px;
+  position: absolute;
+  left: 19px;
+  top: 38px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.services {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Oxygen", sans-serif;
+  position: absolute;
+  left: 947px;
+  top: 70px;
+  width: 179px;
+  height: 61px;
+}
+.contact-us {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Oxygen", sans-serif;
+  position: absolute;
+  left: 1183px;
+  top: 69px;
+  width: 227px;
+  height: 54px;
+}
+._1503688595-dog-png-cute-1 {
+  width: 826px;
+  height: 479px;
+  position: absolute;
+  left: 614px;
+  top: 254px;
+}
+.looking-for-a-good-time {
+  text-align: left;
+  font: 700 64px "Rowdies", sans-serif;
+  position: absolute;
+  left: 10px;
+  top: 245px;
+  width: 988px;
+  height: 89px;
+}
+.looking-for-a-good-time-span {
+  color: #000000;
+  font: 700 64px "Rowdies", sans-serif;
+}
+.looking-for-a-good-time-span2 {
+  color: #8492c7;
+  font: 700 64px "Rowdies", sans-serif;
+}
+.looking-for-a-good-time-span3 {
+  color: #000000;
+  font: 700 64px "Rowdies", sans-serif;
+}
+.now-is-the-time-to-open-your-heart-and-home-to-an-animal-in-need-we-all-want-to-be-rescued-adopt-a-dog-today {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Oxygen", sans-serif;
+  position: absolute;
+  left: 10px;
+  top: 348px;
+  width: 855px;
+  height: 138px;
+}
+.rectangle-2 {
+  background: #c0c9ec;
+  border-radius: 35px;
+  width: 422px;
+  height: 104px;
+  position: absolute;
+  left: 847px;
+  top: 721px;
+}
+.adopt-now {
+  color: #000000;
+  text-align: left;
+  font: 700 42px "Oxygen", sans-serif;
+  position: absolute;
+  left: 879px;
+  top: 746px;
+  width: 219px;
+  height: 53px;
+}
+.house-2015053135-clean-2 {
+  width: 109px;
+  height: 85px;
+  position: absolute;
+  left: 1126px;
+  top: 730px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.welcome-to-our-pet-adoption-home-page-discover-the-joy-of-finding-your-perfect-furry-companion-and-give-a-loving-home-to-an-adorable-pet-in-need-browse-our-diverse-selection-of-lovable-cats-dogs-and-other-small-animals-each-with-their-own-unique-personality {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Oxygen", sans-serif;
+  position: absolute;
+  left: 10px;
+  top: 500px;
+  width: 694px;
+  height: 340px;
+}
+.oip-3-1 {
+  width: 474px;
+  height: 747px;
+  position: absolute;
+  left: 39px;
+  top: 1078px;
+}
+.welcome-to-petshelter-where-love-and-compassion-meet-to-create-forever-homes-for-our-furry-friends-at-petshelter-we-believe-that-every-pet-deserves-a-second-chance-at-happiness-our-mission-is-to-rescue-rehabilitate-and-rehome-animals-in-need-providing-them-with-a-safe-haven-and-a-loving-family-to-call-their-own {
+  color: #000000;
+  text-align: left;
+  font: 700 42px "Oxygen", sans-serif;
+  position: absolute;
+  left: 530px;
+  top: 1166px;
+  width: 868px;
+  height: 571px;
+}
+.at-petshelter-we-offer-a-range-of-services-to-ensure-a-seamless-and-fulfilling-adoption-process-for-both-our-animals-and-adoptive-families-our-commitment-to-the-well-being-of-our-pets-goes-beyond-just-finding-them-a-new-home-here-are-some-of-the-services-we-provide-1-adoption-counseling-our-experienced-staff-members-are-here-to-guide-you-through-the-adoption-process-we-offer-personalized-counseling-sessions-to-understand-your-preferences-lifestyle-and-expectations-helping-you-find-the-perfect-match-for-your-family-2-comprehensive-vet-care-all-our-pets-receive-thorough-medical-examinations-vaccinations-and-necessary-treatments-we-ensure-they-are-spayed-neutered-and-microchipped-before-they-join-your-family-giving-you-peace-of-mind-knowing-your-new-pet-is-healthy-and-protected-3-behavioral-assessments-our-trained-professionals-conduct-behavioral-assessments-to-understand-the-personality-and-needs-of-each-animal-this-allows-us-to-provide-accurate-information-about-their-temperament-training-requirements-and-compatibility-with-different-households-4-training-and-support-we-believe-in-setting-up-our-adopted-pets-and-their-new-families-for-success-we-offer-basic-training-resources-behavior-modification-guidance-and-access-to-training-classes-to-help-you-and-your-pet-smoothly-transition-into-your-new-life-together-5-post-adoption-follow-up-our-commitment-doesn-t-end-once-the-adoption-is-finalized-we-provide-post-adoption-support-to-address-any-questions-or-concerns-that-may-arise-we-are-here-to-ensure-a-happy-and-successful-bond-between-you-and-your-new-pet-6-community-outreach-we-actively-engage-with-the-community-to-promote-responsible-pet-ownership-and-educate-on-the-benefits-of-adoption-through-workshops-events-and-partnerships-we-strive-to-create-a-compassionate-and-informed-society-that-values-the-welfare-of-animals-by-choosing-to-adopt-from-petshelter-you-not-only-gain-a-loving-companion-but-also-access-to-a-range-of-services-aimed-at-making-your-adoption-experience-enjoyable-and-fulfilling-together-let-s-give-these-deserving-animals-a-second-chance-at-a-happy-loving-home {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Oxygen", sans-serif;
+  position: absolute;
+  left: 14px;
+  top: 2100px;
+  width: 1417px;
+  height: 941px;
+}
+.rectangle-3 {
+  background: #aebae7;
+  width: 1440px;
+  height: 149px;
+  position: absolute;
+  left: 0px;
+  top: 3161px;
+}
+.copyright-2023-petshelter-all-rights-reserved {
+  color: #000000;
+  text-align: left;
+  font: 700 30px "Oxygen", sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 3216px;
+  width: 731px;
+  height: 39px;
+}
+
